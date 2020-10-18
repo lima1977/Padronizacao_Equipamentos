@@ -1,0 +1,26 @@
+https://social.technet.microsoft.com/wiki/contents/articles/32852.datagridview-crud-with-image-save-to-sql-server-using-c.aspx
+
+
+https://recount.wordpress.com/2015/12/17/datagridview-crud-with-saving-image-to-sql-server-using-c/
+
+
+tw.WriteLine("server=VOYAGER-ONE; database=StudentsDB; user id=sa; password=080043;");
+tw.Close();
+ConnectionString = "server=VOYAGER-ONE; database=StudentsDB; user id=sa; password=080043;";
+
+
+
+db= server=VOYAGER-ONE; database=StudentsDB; user id=sa; password=080043;
+
+txtAltura2
+txtFrente2
+txtPronfud2
+
+
+https://www.c-sharpcorner.com/UploadFile/asmabegam/datagridview-crud-with-image-save-to-sql-server-using-C-Sharp/
+
+
+https://api.whatsapp.com/send?phone=5511970958151&text=&source=&data=&app_absent=
+
+https://www.sbpallet.com.br/pallets-pbr/
+

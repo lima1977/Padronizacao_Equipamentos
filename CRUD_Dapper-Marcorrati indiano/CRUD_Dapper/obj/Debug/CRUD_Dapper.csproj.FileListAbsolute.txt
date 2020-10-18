@@ -1,0 +1,46 @@
+c:\_cshp062017\CRUD_Dapper\CRUD_Dapper\bin\Debug\CRUD_Dapper.exe.config
+c:\_cshp062017\CRUD_Dapper\CRUD_Dapper\bin\Debug\CRUD_Dapper.exe
+c:\_cshp062017\CRUD_Dapper\CRUD_Dapper\bin\Debug\CRUD_Dapper.pdb
+c:\_cshp062017\CRUD_Dapper\CRUD_Dapper\bin\Debug\MetroFramework.Design.dll
+c:\_cshp062017\CRUD_Dapper\CRUD_Dapper\bin\Debug\MetroFramework.dll
+c:\_cshp062017\CRUD_Dapper\CRUD_Dapper\bin\Debug\MetroFramework.Fonts.dll
+c:\_cshp062017\CRUD_Dapper\CRUD_Dapper\obj\Debug\CRUD_Dapper.csprojResolveAssemblyReference.cache
+c:\_cshp062017\CRUD_Dapper\CRUD_Dapper\obj\Debug\CRUD_Dapper.Properties.Resources.resources
+c:\_cshp062017\CRUD_Dapper\CRUD_Dapper\obj\Debug\CRUD_Dapper.csproj.GenerateResource.Cache
+c:\_cshp062017\CRUD_Dapper\CRUD_Dapper\obj\Debug\CRUD_Dapper.exe
+c:\_cshp062017\CRUD_Dapper\CRUD_Dapper\obj\Debug\CRUD_Dapper.pdb
+c:\_cshp062017\CRUD_Dapper\CRUD_Dapper\obj\Debug\CRUD_Dapper.Form1.resources
+c:\_cshp062017\CRUD_Dapper\CRUD_Dapper\bin\Debug\Dapper.dll
+c:\_cshp062017\CRUD_Dapper\CRUD_Dapper\bin\Debug\Dapper.xml
+C:\Users\marco\Desktop\CRUD_Dapper\CRUD_Dapper\bin\Debug\CRUD_Dapper.exe.config
+C:\Users\marco\Desktop\CRUD_Dapper\CRUD_Dapper\bin\Debug\CRUD_Dapper.exe
+C:\Users\marco\Desktop\CRUD_Dapper\CRUD_Dapper\bin\Debug\CRUD_Dapper.pdb
+C:\Users\marco\Desktop\CRUD_Dapper\CRUD_Dapper\bin\Debug\Dapper.dll
+C:\Users\marco\Desktop\CRUD_Dapper\CRUD_Dapper\bin\Debug\MetroFramework.Design.dll
+C:\Users\marco\Desktop\CRUD_Dapper\CRUD_Dapper\bin\Debug\MetroFramework.dll
+C:\Users\marco\Desktop\CRUD_Dapper\CRUD_Dapper\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\marco\Desktop\CRUD_Dapper\CRUD_Dapper\bin\Debug\Dapper.xml
+C:\Users\marco\Desktop\CRUD_Dapper\CRUD_Dapper\obj\Debug\CRUD_Dapper.Properties.Resources.resources
+C:\Users\marco\Desktop\CRUD_Dapper\CRUD_Dapper\obj\Debug\CRUD_Dapper.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\CRUD_Dapper\CRUD_Dapper\obj\Debug\CRUD_Dapper.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\CRUD_Dapper\CRUD_Dapper\obj\Debug\CRUD_Dapper.csproj.CopyComplete
+C:\Users\marco\Desktop\CRUD_Dapper\CRUD_Dapper\obj\Debug\CRUD_Dapper.exe
+C:\Users\marco\Desktop\CRUD_Dapper\CRUD_Dapper\obj\Debug\CRUD_Dapper.pdb
+C:\Users\marco\Desktop\CRUD_Dapper\CRUD_Dapper\obj\Debug\CRUD_Dapper.Form1.resources
+C:\Users\marco\Desktop\CRUD_Dapper\CRUD_Dapper\obj\Debug\CRUD_Dapper.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\CRUD_Dapper-Marcorrati indiano\CRUD_Dapper\bin\Debug\CRUD_Dapper.exe.config
+C:\Users\marco\Desktop\CRUD_Dapper-Marcorrati indiano\CRUD_Dapper\bin\Debug\CRUD_Dapper.exe
+C:\Users\marco\Desktop\CRUD_Dapper-Marcorrati indiano\CRUD_Dapper\bin\Debug\CRUD_Dapper.pdb
+C:\Users\marco\Desktop\CRUD_Dapper-Marcorrati indiano\CRUD_Dapper\bin\Debug\Dapper.dll
+C:\Users\marco\Desktop\CRUD_Dapper-Marcorrati indiano\CRUD_Dapper\bin\Debug\MetroFramework.Design.dll
+C:\Users\marco\Desktop\CRUD_Dapper-Marcorrati indiano\CRUD_Dapper\bin\Debug\MetroFramework.dll
+C:\Users\marco\Desktop\CRUD_Dapper-Marcorrati indiano\CRUD_Dapper\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\marco\Desktop\CRUD_Dapper-Marcorrati indiano\CRUD_Dapper\bin\Debug\Dapper.xml
+C:\Users\marco\Desktop\CRUD_Dapper-Marcorrati indiano\CRUD_Dapper\obj\Debug\CRUD_Dapper.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\CRUD_Dapper-Marcorrati indiano\CRUD_Dapper\obj\Debug\CRUD_Dapper.Form1.resources
+C:\Users\marco\Desktop\CRUD_Dapper-Marcorrati indiano\CRUD_Dapper\obj\Debug\CRUD_Dapper.Properties.Resources.resources
+C:\Users\marco\Desktop\CRUD_Dapper-Marcorrati indiano\CRUD_Dapper\obj\Debug\CRUD_Dapper.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\CRUD_Dapper-Marcorrati indiano\CRUD_Dapper\obj\Debug\CRUD_Dapper.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\CRUD_Dapper-Marcorrati indiano\CRUD_Dapper\obj\Debug\CRUD_Dapper.csproj.CopyComplete
+C:\Users\marco\Desktop\CRUD_Dapper-Marcorrati indiano\CRUD_Dapper\obj\Debug\CRUD_Dapper.exe
+C:\Users\marco\Desktop\CRUD_Dapper-Marcorrati indiano\CRUD_Dapper\obj\Debug\CRUD_Dapper.pdb
